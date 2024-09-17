@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ntatishe.github.io/sitemap.html.gz
+Sitemap: https://ntatishe.github.io/app/sitemap.html.gz
+Sitemap: https://ntatishe.github.io/assets/sitemap.html.gz
+Sitemap: https://ntatishe.github.io/css/sitemap.html.gz
+Sitemap: https://ntatishe.github.io/includes/sitemap.html.gz
+Sitemap: https://ntatishe.github.io/item/sitemap.html.gz
+Sitemap: https://ntatishe.github.io/src/sitemap.html.gz
